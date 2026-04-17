@@ -17,12 +17,13 @@
   ],
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3043C8D3_1_1","properties":[],"isDnd":false,"objectId":{"name":"obj_raquete1","path":"objects/obj_raquete1/obj_raquete1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":80.0,"y":180.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_485B85C5_1_1","properties":[],"isDnd":false,"objectId":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":560.0,"y":180.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7E82283E_1_1","properties":[],"isDnd":false,"objectId":{"name":"obj_teto","path":"objects/obj_teto/obj_teto.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":10.875,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":316.0,"y":-32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7EA1FE66_1_1","properties":[],"isDnd":false,"objectId":{"name":"obj_teto","path":"objects/obj_teto/obj_teto.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":11.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":316.0,"y":392.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_24BBDB35_1","properties":[],"isDnd":false,"objectId":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F3B4EA8","properties":[],"isDnd":false,"objectId":{"name":"obj_instrucoes","path":"objects/obj_instrucoes/obj_instrucoes.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":48.0,"y":248.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_646D06A","properties":[],"isDnd":false,"objectId":{"name":"obj_botao_menu","path":"objects/obj_botao_menu/obj_botao_menu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":216.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2EC526B9","properties":[],"isDnd":false,"objectId":{"name":"obj_perdeu","path":"objects/obj_perdeu/obj_perdeu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":600.0,"y":24.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"rosto","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_317544E0_1_1","spriteId":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":112.0,},
@@ -39,7 +40,8 @@
     {"name":"inst_24BBDB35_1","path":"rooms/rm_instrucoes/rm_instrucoes.yy",},
     {"name":"inst_4F3B4EA8","path":"rooms/rm_instrucoes/rm_instrucoes.yy",},
     {"name":"inst_646D06A","path":"rooms/rm_instrucoes/rm_instrucoes.yy",},
-    {"name":"inst_2EC526B9","path":"rooms/rm_instrucoes/rm_instrucoes.yy",},
+    {"name":"inst_485B85C5_1_1","path":"rooms/rm_instrucoes/rm_instrucoes.yy",},
+    {"name":"inst_3043C8D3_1_1","path":"rooms/rm_instrucoes/rm_instrucoes.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
