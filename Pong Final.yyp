@@ -17,6 +17,7 @@
     {"id":{"name":"rm_vitoria","path":"rooms/rm_vitoria/rm_vitoria.yy",},"order":3,},
     {"id":{"name":"obj_raquete1","path":"objects/obj_raquete1/obj_raquete1.yy",},"order":1,},
     {"id":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},"order":7,},
+    {"id":{"name":"obj_perdeu","path":"objects/obj_perdeu/obj_perdeu.yy",},"order":13,},
     {"id":{"name":"scr_inicio","path":"scripts/scr_inicio/scr_inicio.yy",},"order":0,},
     {"id":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"order":6,},
     {"id":{"name":"spr_raquete2","path":"sprites/spr_raquete2/spr_raquete2.yy",},"order":4,},
