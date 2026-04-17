@@ -21,6 +21,7 @@
     {"id":{"name":"scr_inicio","path":"scripts/scr_inicio/scr_inicio.yy",},"order":0,},
     {"id":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"order":6,},
     {"id":{"name":"spr_raquete2","path":"sprites/spr_raquete2/spr_raquete2.yy",},"order":4,},
+    {"id":{"name":"obj_bola2","path":"objects/obj_bola2/obj_bola2.yy",},"order":14,},
     {"id":{"name":"obj_teto","path":"objects/obj_teto/obj_teto.yy",},"order":3,},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"order":4,},
     {"id":{"name":"spr_olhos","path":"sprites/spr_olhos/spr_olhos.yy",},"order":2,},
